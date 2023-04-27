@@ -91,10 +91,6 @@
             "UserInput": {
                 "type": "object",
                 "properties": {
-                    "nim":{
-                        "type": "integer",
-                        "description": "nomor induk mahasiswa"
-                    },
                     "name": {
                         "type": "string",
                         "description": "The user name"
